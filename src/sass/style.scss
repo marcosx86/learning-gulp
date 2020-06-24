@@ -1,0 +1,10 @@
+$bgColor: #000000;
+$bodyBgClass: darkgray;
+
+body {
+    background-color: $bodyBgClass;
+
+    .someClass {
+        background-color: $bgColor;
+    }
+}
